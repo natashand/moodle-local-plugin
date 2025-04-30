@@ -18,7 +18,7 @@ if ($mform->is_cancelled()) {
     $username = $data->username;
     $email = $data->email;
 
-    $token = 'pat-na1-750af0d0-fb8d-4ee2-b647-622dbb468b50';
+    $token = 'pat-na1-your_token';
 
     $url = 'https://api.hubapi.com/crm/v3/objects/contacts';
 
